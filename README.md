@@ -25,6 +25,7 @@ The project uses **collaborative filtering** techniques and a pre-trained model 
 ---
 
 ## 📂 Project Structure
+```
 Book-Recommender-System/
 │
 ├── app.py
@@ -37,7 +38,7 @@ Book-Recommender-System/
 │ ├── index.html
 │ └── recommend.html
 └── README.md
-
+```
 
 ---
 
